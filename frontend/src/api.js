@@ -1,7 +1,5 @@
-/*
-    This is an api object that we use instead of Axios to send our requests. This automatically
-    adds the authorization token to our requests for us.
-*/
+//    This is an api object that we use instead of Axios to send our requests. This automatically
+//    adds the authorization token to our requests for us.
 
 import axios from axios
 import { ACCESS_TOKEN } from "./constants"
