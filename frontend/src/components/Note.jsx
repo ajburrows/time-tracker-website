@@ -12,3 +12,6 @@ function Note({note, onDelete}){
         </button>
     </div>
 }
+
+
+export default Note
